@@ -3,6 +3,8 @@
 // @author      T.H.
 // @namespace   https://github.com/heussd/better-wikipedia-toc
 // @include     *wiki*
+// @downloadURL https://github.com/heussd/better-wikipedia-toc/raw/master/better-wikipedia-toc.user.js
+// @homepageURL https://github.com/heussd/better-wikipedia-toc/
 // @grant       GM_addStyle
 // ==/UserScript==
 
